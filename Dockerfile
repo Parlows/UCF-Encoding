@@ -22,6 +22,8 @@ RUN apt-get install -y python3-opencv
 COPY requirements.txt .
 RUN pip install -r requirements.txt --no-deps
 
+RUN pip install regex
+
 # Change workdir
 WORKDIR /app
 
