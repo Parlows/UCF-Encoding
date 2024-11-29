@@ -7,8 +7,6 @@ a.txt
 logs.txt
 ucf-crime/errors_clip-centroid.txt
 ucf-crime/errors.txt
-requirements.txt
 ucf-crime/logs_clip-centroid.txt
-requirements.txt
 ucf-crime/logs_clip-centroid_milvus.txt
 ucf-crime/errors_clip-centroid_milvus.txt
