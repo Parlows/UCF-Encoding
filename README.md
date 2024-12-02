@@ -1,4 +1,4 @@
-# TFM
+# Data ingestion and encoding
 
 This is the code I am writting for my Master's thesis.
 
